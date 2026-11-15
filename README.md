@@ -9,7 +9,7 @@ Analytical pipeline for the manuscript:
 > **Cellular composition shifts dominate the COVID-19 brain transcriptomic
 > response: NF-κB, IFN/JAK-STAT and REST master regulators converge on a
 > five-cell-type neurovascular signature in postmortem frontal cortex.**
-> Elechi KW, [Senior Author]. *Manuscript in preparation*, 2026.
+> Elechi KW,. *Manuscript in preparation*, 2026.
 
 This repository contains the complete R pipeline that reproduces the 13 figures
 and headline statistics reported in the manuscript. The analysis re-examines
